@@ -1,3 +1,6 @@
+// kanye the genius
+// by Sam Slover, September 9, 2012
+
 void setup () {
   //set the size of the window
   size(600, 600);
