@@ -1,4 +1,4 @@
-// kanye the genius
+// kanye the genius, drawn in processing
 // by Sam Slover, September 9, 2012
 
 void setup () {
